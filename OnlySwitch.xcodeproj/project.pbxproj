@@ -371,6 +371,7 @@
 		A93C8BE12ECA34D700D7CE52 /* AICommanderSwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93C8BE02ECA34CB00D7CE52 /* AICommanderSwitch.swift */; };
 		A93C8BE22ECA34D700D7CE52 /* AICommanderSwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93C8BE02ECA34CB00D7CE52 /* AICommanderSwitch.swift */; };
 		A93C8BE42ECA376900D7CE52 /* OnlyAgent in Frameworks */ = {isa = PBXBuildFile; productRef = A93C8BE32ECA376900D7CE52 /* OnlyAgent */; };
+		A9A98A412F78834500034ADB /* models.json in Resources */ = {isa = PBXBuildFile; fileRef = A9A98A402F78834500034ADB /* models.json */; };
 		A9C70D062EE490B3000A2367 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A9C70D052EE490B3000A2367 /* GoogleService-Info.plist */; };
 		A9F007CA2EC3D9BD002D9AB0 /* Design in Frameworks */ = {isa = PBXBuildFile; productRef = A9F007C92EC3D9BD002D9AB0 /* Design */; };
 /* End PBXBuildFile section */
@@ -691,6 +692,7 @@
 		A1D0E0092F0A000100BEEF01 /* AuthenticatorSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticatorSettingsView.swift; sourceTree = "<group>"; };
 		A1D0E00A2F0A000100BEEF01 /* AuthenticatorSwitch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticatorSwitch.swift; sourceTree = "<group>"; };
 		A93C8BE02ECA34CB00D7CE52 /* AICommanderSwitch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AICommanderSwitch.swift; sourceTree = "<group>"; };
+		A9A98A402F78834500034ADB /* models.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = models.json; sourceTree = "<group>"; };
 		A9C70D052EE490B3000A2367 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -1626,6 +1628,7 @@
 				04E03B03275FD98500EA5FB9 /* battery-airpods-monterey.sh */,
 				0434B4BD2873882100F06AB9 /* Releases_mock.json */,
 				0434B4C328738E7400F06AB9 /* Latest_release_mock.json */,
+				A9A98A402F78834500034ADB /* models.json */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
@@ -1881,6 +1884,7 @@
 				04447B602754F08100CD2900 /* Assets.xcassets in Resources */,
 				04E562002E2467E6004E0BD0 /* Localizable.xcstrings in Resources */,
 				046331D32795DACB00C5F894 /* ShortcutsMarket.json in Resources */,
+				A9A98A412F78834500034ADB /* models.json in Resources */,
 				A9C70D062EE490B3000A2367 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
